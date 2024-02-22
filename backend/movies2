@@ -1,0 +1,44 @@
+{
+    "movies" :[{
+        "id" : 1,
+        "title" : "Harry Potter y la piedra filosofal",
+        "description" : "El día en que cumple once años, Harry Potter se entera de que es hijo de dos destacados hechiceros, de los que ha heredado poderes mágicos. En la escuela Hogwarts de Magia y Hechicería, donde se educa con otros niños que también tienen poderes especiales, aprenderá todo lo necesario para ser mago.",
+        "year" : 2001,
+        "cover" : "https://pics.filmaffinity.com/harry_potter_and_the_sorcerer_s_stone-154820574-large.jpg",
+        "rating" : 4
+    },
+    {
+        "id" : 2,
+        "title" : "El Rey León",
+        "description" : "La sabana africana es el escenario en el que tienen lugar las aventuras de Simba, un pequeño león que es el heredero del trono. Sin embargo, al ser injustamente acusado por el malvado Scar de la muerte de su padre, se ve obligado a exiliarse. Durante su destierro, hará buenas amistades e intentará regresar para recuperar lo que legítimamente le corresponde.",
+        "year" : 1994,
+        "cover" : "https://www.sensacine.com/peliculas/pelicula-10862/trailer-19248378/",
+        "rating" : 5
+    },
+    {
+        "id" : 3,
+        "title" : "La forma del agua",
+        "description" : "En un inquietante laboratorio de alta seguridad, durante la Guerra Fría, se produce una conexión insólita entre dos mundos aparentemente alejados. La vida de la solitaria Elisa (Sally Hawkins), que trabaja como limpiadora en el laboratorio, cambia por completo cuando descubre un experimento clasificado como secreto: un hombre anfibio (Doug Jones) que se encuentra ahí recluido.",
+        "year" : 2017,
+        "cover" : "https://pics.filmaffinity.com/the_shape_of_water-856013521-large.jpg",
+        "rating" : 4
+    },
+    {
+        "id" : 4,
+        "title" : "Scary Movie",
+        "description" : "Una bella estudiante muere asesinada. Un grupo de desorientados adolescentes descubre que entre ellos hay un asesino. La heroína Cyndi Campbell y su grupo de despistados amigos se verán aterrorizados por un singular psicópata enmascarado que pretende vengarse de ellos, después de que lo atropellaran por accidente el pasado Halloween.",
+        "year" : 2000,
+        "cover" : "https://pics.filmaffinity.com/scary_movie-943532513-large.jpg",
+        "rating" : 3
+    },
+    {
+        "id" : 5,
+        "title" : "Psicosis",
+        "description" : "Marion Crane, una joven secretaria, tras cometer el robo de un dinero en su empresa, huye de la ciudad y, después de conducir durante horas, decide descansar en un pequeño y apartado motel de carretera regentado por un tímido joven, Norman Bates, que vive en la casa de al lado con su madre.",
+        "year" : 1960,
+        "cover" : "https://pics.filmaffinity.com/psycho-805182707-large.jpg",
+        "rating" : 5
+    }
+    
+    ]
+}
